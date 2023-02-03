@@ -25,6 +25,7 @@ verificar se o aplicativo é renderizado conforme esperado crianda nosso primeir
 ---
 
 
+
 **Parte 2**
 
 [Integração com o Repo (GitHub Flow)](https://github.com/FiapFullStack/pipelines/blob/master/flows/GITHUBFLOW.md)
